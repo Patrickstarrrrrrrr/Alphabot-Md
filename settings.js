@@ -28,7 +28,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Azpect-Bot" //namabot kalian
 global.ownername= "Dian" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://github.com/Patrickstarrrrrrrr" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://github.com/Patrickstarrrrrrrr" //bebas
 global.email = "pstar9575@gmail.com" //bebas
